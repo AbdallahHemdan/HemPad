@@ -18,4 +18,4 @@ __HemPad__ is a fully functional Notepad app like (Microsoft ```"Word-pad"```) w
 3. ``` cd Desktop ```
 4. ``` cd "HemPad-master" ```
 5. ``` cd NotePad ```
-6. ```./NotePad``` 
+6. ```./NotePad``` (to Run)
