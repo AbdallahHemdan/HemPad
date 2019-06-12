@@ -1,5 +1,5 @@
 # ⌨️ HemPad
-__HemPad__ is a fully functionality Notepad app like (Microsoft ```"Word-pad"```) with more functions Like:
+__HemPad__ is a fully functional Notepad app like (Microsoft ```"Word-pad"```) with more functions Like:
 - New 📃
 - Open 📂
 - Save as 📥
