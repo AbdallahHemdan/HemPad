@@ -11,6 +11,10 @@ __HemPad__ is a fully functional Notepad app like (Microsoft ```"Word-pad"```) w
 - Undo ↪️
 - Redo ↩️
 
+## 💻 Demo
+![Demo](https://user-images.githubusercontent.com/40190772/59337683-5d38d480-8d01-11e9-8c3d-03334fc13436.gif)
+
+
 ## 🔑 How to use
 ### For Linux
 1. ```Clone or download```
