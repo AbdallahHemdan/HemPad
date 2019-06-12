@@ -23,3 +23,12 @@ __HemPad__ is a fully functional Notepad app like (Microsoft ```"Word-pad"```) w
 4. ``` cd "HemPad-master" ```
 5. ``` cd NotePad ```
 6. ```./NotePad``` (to Run)
+
+### For Windows
+1. ```Clone or download```
+2. ```Extract in any where (e.g Desktop)```
+3. ``` cd Desktop ```
+4. ``` cd "HemPad-master" ```
+5. ``` cd NotePad ```
+6. ```Call qmake referencing the NotePad.pro file
+7. ```./NotePad``` (to Run)
