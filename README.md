@@ -1,4 +1,10 @@
 # ⌨️ HemPad
+------------
+[![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/HemPad)](https://github.com/AbdallahHemdan/HemPad/issues)
+[![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/HemPad)](https://github.com/AbdallahHemdan/HemPad/network)
+[![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/HemPad)](https://github.com/AbdallahHemdan/HemPad/stargazers)
+[![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/HemPad)](https://github.com/AbdallahHemdan/HemPad/blob/master/LICENSE)
+
 __HemPad__ is a fully functional Notepad app like (Microsoft ```"Word-pad"```) with more functions Like:
 - New 📃
 - Open 📂
